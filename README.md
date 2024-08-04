@@ -25,7 +25,7 @@ This is a simple Sudoku game implemented using Python's Tkinter library. The gam
 ### Running the Application
 
 1. **Clone the repository:**
-   git clone https://github.com/your-username/sudoku-game.git
+   git clone https://github.com/Gdivyabharathi/Sudoku_tk_sample.git
    cd sudoku-game
 Run the application:
 
